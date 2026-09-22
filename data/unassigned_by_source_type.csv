@@ -1,0 +1,788 @@
+type,source_id,source,unassigned_works
+dataset,S7407052672,NIFS,12545688
+other,S7407053449,DiSSCo,3655781
+dataset,S7407053449,DiSSCo,2096786
+dataset,S7407051155,DOE Pacific Northwest National Laboratory (PNNL) Repository,803365
+dataset,S4398183272,Global Biodiversity Information Facility,669440
+dataset,S4306400562,Zenodo (CERN European Organization for Nuclear Research),531748
+dataset,S4363604052,ENCODE Datasets,496659
+dataset,S7407053200,University of Southern California Digital Library,407461
+other,S7407053410,SESAR_ODP,396829
+dataset,S7407051207,Plutof.  Data Management and Publishing Platform,370577
+dataset,S4377196806,Harvard Dataverse,340633
+other,S7407056385,Institutional Repositories DataBase (IRDB),286358
+other,S4306400562,Zenodo (CERN European Organization for Nuclear Research),283707
+other,S7407053303,IGSN ID registration for Geoscience SAMPLES data,252905
+report,S7407056385,Institutional Repositories DataBase (IRDB),214840
+article,S7407056385,Institutional Repositories DataBase (IRDB),195876
+dataset,S7407053504,BacDive,190632
+dataset,S4377196282,Figshare,156761
+paratext,S4306463230,Elsevier eBooks,154651
+other,S4306525036,PubMed,153381
+dataset,S7407050996,Università degli Studi di Milano,152110
+dataset,S7407060685,LPSN,131378
+dataset,S7407056385,Institutional Repositories DataBase (IRDB),114993
+other,S7407051306,International Treaty on Plant Genetic Resources for Food and Agriculture,112423
+other,S7407052672,NIFS,105691
+report,S4306400562,Zenodo (CERN European Organization for Nuclear Research),104339
+dataset,S7407052521,Recherche Data Gouv France,103883
+other,S7407051034,System for Earth Sample Registration (SESAR),103469
+dataset,S7407051464,The Catalogue of Life,85873
+other,S4377196282,Figshare,75988
+paratext,S4306463805,Princeton University Press eBooks,72459
+article,S4306402601,Columbia Academic Commons (Columbia University),70231
+other,S4306402292,Digital Collections of Colorado (Colorado State University),62081
+dataset,S7407050775,Mendeley Data,58031
+other,S7407050744,Digital Repository of Ireland,54944
+other,S4306402129,Open University of Cape Town (University of Cape Town),52091
+dataset,S4397694588,The Cambridge Structural Database,51912
+article,S4406923042,Cairn.info,49228
+other,S4377196108,Hispana,46509
+article,S4210210193,Nihon Kikai Gakkaishi/Journal of the Japan Society of Mechanical Engineers,46390
+article,S49861241,The Lancet,45173
+article,S4306402089,University of Debrecen Electronic Archive (University of Debrecen),42131
+dataset,S4363604066,Art Sales Catalogues Online,42004
+article,S4306401404,CyberLeninK (CyberLeninka),40762
+dataset,S4306524878,PsycEXTRA Dataset,38823
+article,S4306400562,Zenodo (CERN European Organization for Nuclear Research),37401
+dataset,S7407063902,Worldwide Protein Data Bank,35152
+other,S4306402539,ANU Open Research (Australian National University),34156
+paratext,S4306463363,Harvard University Press eBooks,33342
+article,S7407064440,OLAC - Open Language Archives Community,33211
+article,S2756445955,Japanese Journal of Radiological Technology,32263
+article,S4306500507,Acta Scientiarum Naturalium Universitatis Sunyatseni,29333
+other,S7407053016,NTNU,28818
+report,S4306400792,University of North Texas Digital Library (University of North Texas),27534
+other,S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),26198
+paratext,S4306464201,University of Toronto Press eBooks,25776
+paratext,S4306464344,Yale University Press eBooks,25508
+other,S7407052373,PARADISEC,25008
+other,S7407051350,The British Museum,24465
+dataset,S4363604084,ICPSR Data Holdings,24236
+article,S4306400269,eNTUKhPIIR Repository (Kharkiv Polytechnic Institute),23697
+article,S4306525036,PubMed,23601
+article,S4393911389,BMJ,23379
+dataset,S4363604062,Human Rights Documents online,23211
+dataset,S7407052793,Göttingen Research Online,23180
+paratext,S4306463045,Columbia University Press eBooks,22897
+article,S2752698192,The Japanese Journal of Urology,22411
+other,S7407050947,Toubkal,22189
+paratext,S4306463067,Cornell University Press eBooks,22123
+other,S4306402521,University of Minnesota Digital Conservancy (University of Minnesota),21997
+article,S4306401280,DOAJ (DOAJ: Directory of Open Access Journals),21522
+dataset,S4363604130,GISAID,21423
+dataset,S7407053357,CUHK Research Data Repository,21156
+other,S4406922388,Périodiques Scientifiques en Édition Électronique,20819
+dataset,S4306401843,Data Archiving and Networked Services (DANS),20511
+other,S7407050956,Open Science Framework,20337
+dataset,S7407050840,bonndata,20312
+dataset,S7407051966,Kaggle,19684
+article,S7407064240,USMA Digital Collections,19471
+paratext,S4306463608,McGill-Queen's University Press eBooks,19430
+report,S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),19301
+paratext,S4306463952,Stanford University Press eBooks,19205
+other,S7407051768,NAKALA,18820
+article,S4210197683,Medical Entomology and Zoology,18385
+paratext,S4306463151,Edinburgh University Press eBooks,17874
+article,S128516502,Notes and Queries,16996
+other,S7407053148,Underline Science Inc.,16700
+report,S7407052981,RENATE,16592
+report,S4306400110,Iowa Publications Online (State Library of Iowa),16264
+dataset,S7407050895,HEPData,15896
+paratext,S4306463223,Edward Elgar Publishing eBooks,15180
+article,S100460328,Scientific American,15023
+paratext,S4306464193,University of Pennsylvania Press eBooks,14983
+other,S4406922838,Institutional Repository of National University of Food Technologies,14938
+article,S4377196108,Hispana,14732
+report,S4306401436,Archive of European Integration (AEI) (University of Pittsburgh),14600
+article,S2914338665,Journal of Geography (Chigaku Zasshi),14559
+other,S4377196211,Wielkopolska Digital Library,14415
+article,S3880285,Science,14213
+paratext,S4306462911,Berghahn Books,14128
+paratext,S4406922792,Biblioteca Digitala a Bibliotecii Centrale Universitare Cluj,14124
+other,S4406923040,Persée (Ministère de lEnseignement supérieur et de la Recherche),14050
+paratext,S4306463659,New York University Press eBooks,14050
+paratext,S4306466687,Boydell and Brewer eBooks,13998
+paratext,S4306464022,transcript Verlag eBooks,13778
+report,S4306400390,Repositorio Académico UPC (Universidad Peruana de Ciencias Aplicadas),13711
+dataset,S4377196879,Publishing Network for Geoscientific and Environmental Data (PANGAEA) (Alfred Wegener Institute for Polar and Marine Research),13390
+article,S2764455111,PubMed Central,13375
+dataset,S4306520246,MorphoSource Media,13252
+other,S7407050528,AIP Publishing,13056
+other,S7407052863,TERN IGSN ID Catalogue,12970
+paratext,S4306462973,Bristol University Press eBooks,12860
+paratext,S4306463954,State University of New York Press eBooks,12757
+other,S4306401060,Maestría en Control de Operaciones y Gestión Logística (Escuela Superior Politécnica del Litoral),12753
+paratext,S4306474939,Lexington Books,12629
+report,S4306402266,Digital Repository (National Repository of Grey Literature),12494
+dataset,S7407052481,EBAS,12393
+other,S4210201231,Socio-Environmental Systems Modeling,12280
+paratext,S7407056385,Institutional Repositories DataBase (IRDB),12059
+paratext,S4306463762,Policy Press eBooks,11968
+other,S7407059930,CFI-FCI,11965
+paratext,S4306464165,University of Hawaii Press eBooks,11894
+article,S4306400275,"Electronic Archive of the National University ""Odessa Law Academy"" (Scientific Library of the Odessa Law Academy)",11874
+dataset,S4363604095,North China Daily News Online,11702
+paratext,S4306463734,Penn State University Press eBooks,11547
+article,S62468778,New England Journal of Medicine,11513
+article,S156280010,American Mathematical Monthly,11406
+paratext,S4306463865,Rutgers University Press eBooks,11376
+other,S7407064440,OLAC - Open Language Archives Community,11322
+other,S7407051257,Graphische Sammlung,11308
+paratext,S4306463289,Fordham University Press eBooks,11297
+other,S4306400786,Americanae (AECID Library),11192
+paratext,S4306464200,University of Texas Press eBooks,11075
+other,S4306400757,eCommons (Cornell University),11058
+other,S7407051243,"E-Pics 4, Biosys",10657
+article,S4306402274,SHAREOK (University of Oklahoma; Oklahoma State University; Central Oklahoma University),10616
+dataset,S7407050882,UC Los Angeles,10269
+dataset,S7407050937,ScienceDB,9990
+other,S7407051382,University of Oxford,9892
+dataset,S7407051408,FIU Research Data Portal,9883
+other,S4406923063,Taipei Medical University Repository,9787
+paratext,S4306479034,Rowman & Littlefield Publishers eBooks,9601
+article,S4377196575,INSTITUTIONAL REPOSITORY OF ODESSA NATIONAL UNIVERSITY NAMED I.I. Mechnykova (Odesa I.I.Mechnikov National University),9413
+paratext,S4306463997,The MIT Press eBooks,9370
+other,S4306401991,A.N.Beketov KNUME Digital Repository (National University of Kharkiv),9179
+other,S4306402228,Calaix (Generalitat de Catalunya),9086
+paratext,S4406923042,Cairn.info,8972
+other,S7407064234,David Rumsey Historical Maps,8945
+paratext,S4306462833,Amsterdam University Press eBooks,8870
+dataset,S4306524922,PsycTESTS Dataset,8836
+other,S4306402281,OpenEdition (OpenEdition),8805
+other,S4306401468,Lume (Universidade Federal do Rio Grande do Sul),8742
+article,S2764987464,Taiikugaku kenkyu (Japan Journal of Physical Education Health and Sport Sciences),8693
+other,S7407055191,Lithuanian University of Health Sciences,8580
+other,S4306400110,Iowa Publications Online (State Library of Iowa),8576
+other,S7407055284,Közszolgálati Tudásportál,8392
+paratext,S4306464182,University of Minnesota Press eBooks,8376
+dataset,S7407051121,Geological Survey of Denmark and Greenland (GEUS),8277
+article,S6700441,The Journal of the Kyushu Dental Society,8275
+other,S4306401651,Digitalen Hochschulbibliothek Sachsen-Anhalt (Universitäts- und Landesbibliothek Sachsen-Anhalt),8274
+paratext,S2764835645,International Journal of Pharmaceutical Sciences and Research,7979
+other,S4306401777,Apollo (University of Cambridge),7950
+paratext,S173695690,Astronomische Nachrichten,7936
+paratext,S171471881,Zootaxa,7933
+article,S4210207677,JOURNAL OF THE SOCIETY OF BREWING JAPAN,7848
+article,S2764588497,JAPANES JOURNAL OF MEDICAL INSTRUMENTATION,7763
+other,S7407051621,Harokopio University,7725
+other,S4306400396,Electronic Kyiv-Mohyla Academy Institutional Repository (National University of Kyiv-Mohyla Academy),7667
+article,S125174104,The Journal of the Japanese Association for Chest Surgery,7654
+article,S7407064331,Chinese Culture University Repository,7585
+article,S4377196751,Scholar Works at Harding (Harding University Main Campus),7552
+other,S4306400616,DIGITAL.CSIC (Spanish National Research Council (CSIC)),7536
+article,S4306401271,RePEc: Research Papers in Economics,7502
+dataset,S7407053353,Neotoma Paleoecological Database,7466
+paratext,S4306463559,Liverpool University Press eBooks,7460
+dataset,S4363604105,Manchuria Daily News Online,7440
+article,S4377196368,UNM’s Digital Repository (University of New Mexico),7424
+paratext,S13978405,The Medical Journal of Australia,7412
+article,S13978405,The Medical Journal of Australia,7295
+other,S7407055231,Bulgarian Portal for Open Science,7290
+other,S7407064233,ARTstor OAICatMuseum Repository,7253
+paratext,S4306462995,Cambridge University Press eBooks,7208
+article,S4377196826,Kharkiv National Medical University Repository (Kharkiv National Medical University),7190
+article,S169477635,Nippon Jibiinkoka Gakkai Kaiho,7107
+article,S7407064235,Digital Collections at BYU,7071
+article,S126523489,AUDIOLOGY JAPAN,6983
+other,S7407055282,Repositori Obert de Coneixement de lAjuntament de Barcelona,6952
+other,S4377196541,Internet Archive (Internet Archive),6848
+dataset,S7407050717,DataverseNO,6822
+dataset,S4363604118,Prize Papers Online 1,6789
+paratext,S4306481741,University of British Columbia Press eBooks,6789
+article,S4210239091,Journal of the Society of Mechanical Engineers,6784
+dataset,S7407051759,Écoles françaises à l’étranger,6781
+article,S187216704,AJN American Journal of Nursing,6753
+dataset,S4363604096,Gabii Project Reports Database,6736
+paratext,S4306463333,Gorgias Press eBooks,6695
+article,S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),6666
+other,S4306401983,Research at the University of Copenhagen (University of Copenhagen),6645
+paratext,S4306463575,Lynne Rienner Publishers eBooks,6613
+article,S4210190957,The Journal of the Society of Chemical Industry Japan,6505
+article,S2764844316,Journal of the Fuel Society of Japan,6488
+article,S4377196639,Digital Scholarship - Texas Southern University (Texas Southern University),6479
+other,S4306401175,Digital Archive @ University of South Florida (University of South Florida),6328
+dataset,S7407051022,CSIRO,6288
+article,S4210214158,Juntendō Igaku/Juntendo igaku,6238
+report,S4377196290,Gredos (University of Salamanca),6194
+article,S4406923063,Taipei Medical University Repository,6177
+paratext,S4306481723,University of Alabama Press eBooks,6146
+paratext,S4306464194,University of Pittsburgh Press eBooks,6100
+other,S4306401050,The Portal to Texas History (University of North Texas),5968
+other,S7407052820,Verbundzentrale des GBV,5884
+other,S4306400423,University of Southern Denmark Research Portal (University of Southern Denmark),5875
+article,S4406922546,Electronic Archive of Ural Federal University (ELAR UrFU),5835
+report,S4306402055,CGSPace A Repository of Agricultural Research Outputs (Consultative Group for International Agricultural Research),5778
+paratext,S4306463637,Multilingual Matters eBooks,5770
+dataset,S7407050887,UC San Diego,5747
+paratext,S4210200754,Angewandte Chemie,5707
+other,S4306400990,Arcimis (State Meteorological Agency),5693
+article,S104920066,The New Scientist,5655
+other,S4306400507,Jagiellonian Digital Library (Jagiellonian University),5653
+article,S4306559330,鐵と鋼 : 日本鐡鋼協會々誌,5651
+other,S4406922243,Central Ukrainian National Technical University Repozitory,5593
+other,S7407050615,The Digital Archeological Record (tDAR),5525
+other,S4306402266,Digital Repository (National Repository of Grey Literature),5523
+report,S4306402542,Repository of Belarusian National Technical University (Belarusian National Technical University),5470
+paratext,S4306462763,Academic Studies Press eBooks,5390
+dataset,S4363604083,AEA Randomized Controlled Trials,5351
+article,S14436165,Reactions Weekly,5304
+paratext,S4306463591,Manchester University Press eBooks,5288
+article,S4306400727,SibFU Digital Repository (Siberian Federal University),5241
+dataset,S4363604098,Enzyklopädie der Neuzeit Online,5225
+other,S7407064331,Chinese Culture University Repository,5224
+article,S7407064297,University of Michigan Library Repository,5131
+other,S49861241,The Lancet,5128
+other,S4306402501,Alfred University Research and Archives (AURA) (Alfred University),5127
+article,S172573765,JAMA,5120
+article,S36000085,Nursing Standard,5096
+report,S4306401756,"Lenus, The Irish Health Repository (Dr Steevens Hospital Library)",5065
+paratext,S4306481945,University of Washington Press eBooks,5061
+other,S4377196436,Scholars' Bank (University of Oregon),5060
+dataset,S7407053432,Concept Library,5048
+dataset,S4363604200,Concordance et Indices de la Tradition Musulmane Online,5019
+paratext,S4306464147,University of Arizona Press eBooks,5007
+other,S4306400159,RCIN (Digital Repository of the Scientifics Institutes) (Institute of Archaeology and Ethnology of the Polish Academy of Sciences),5003
+paratext,S4306464162,University of Georgia Press eBooks,4958
+article,S2764386467,YAKUGAKU ZASSHI,4945
+dataset,S7407051161,DRYAD,4907
+paratext,S4306463760,Pluto Press eBooks,4877
+paratext,S4306463393,Hong Kong University Press eBooks,4853
+article,S4306402618,Biodiversity Heritage Library (Smithsonian Institution),4832
+other,S4406923048,CARLI Digital Collections (Consortium of Academic and Research Libraries in Illinois),4817
+dataset,S4363604078,IUPAC Standards Online,4804
+article,S7407057979,数据期刊,4794
+paratext,S152760256,Chemical Communications,4762
+dataset,S7407052950,chemotion,4753
+other,S7407064350,Southern Utah University Digital Collections,4752
+article,S4306517233,KAGAKU TO SEIBUTSU,4747
+dataset,S7407050926,Human-Computer Interaction Institute,4728
+article,S2764606606,Okayama Igakkai Zasshi (Journal of Okayama Medical Association),4706
+other,S4406922276,INRIA a CCSD electronic archive server,4680
+article,S4306494485,기독교사상,4677
+paratext,S4306463362,Harvard University Asia Center eBooks,4676
+dataset,S7407051350,The British Museum,4671
+article,S4210171848,Kobunshi,4654
+article,S4210173430,Chinese Science Bulletin (Chinese Version),4598
+paratext,S4306464189,University of Notre Dame Press eBooks,4593
+article,S4306493674,새가정,4583
+article,S4210208841,Psychiatric News,4581
+article,S157851878,Medium Ævum,4565
+paratext,S4306463419,Indiana University Press eBooks,4550
+other,S4306401550,Electronic Archive eScriptorium (National University of Kharkiv),4542
+dataset,S4363604127,The North China Herald Online,4527
+article,S2764898922,NIPPON GOMU KYOKAISHI,4499
+dataset,S7407052399,The Human BioMolecular Atlas Program (HuBMAP),4479
+dataset,S7407053387,TIB Data Manager,4459
+article,S4377196308,ScholarsArchive  (Brigham Young University),4442
+other,S7407064227,Filmoteca,4439
+dataset,S7407051545,University Library Heidelberg,4373
+article,S4306493554,월간 샘터,4367
+dataset,S4363604089,"Encyclopaedia of Islam, Second Edition",4359
+paratext,S4306463006,Catholic University of America Press eBooks,4319
+dataset,S7407053422,European VLBI Network Data Archive,4287
+other,S4306402243,Bogotá (Banco de la República),4275
+dataset,S7407051037,Rolling Deck to Repository,4266
+report,S4306400616,DIGITAL.CSIC (Spanish National Research Council (CSIC)),4228
+dataset,S4363604093,Religion Past and Present,4201
+report,S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),4194
+article,S4406922838,Institutional Repository of National University of Food Technologies,4182
+article,S7407064434,StFX Scholar,4148
+paratext,S4306462847,Archaeopress Publishing Ltd eBooks,4148
+other,S7407051241,E-Pics Alte und Seltene Drucke,4133
+article,S4210189610,Practica Oto-Rhino-Laryngologica,4119
+other,S4393911389,BMJ,4117
+other,S7407052470,Zurich Open Plattform,4117
+other,S4306400088,UvA-DARE (University of Amsterdam),4096
+other,S4306400654,MPG.PuRe (Max Planck Society),4086
+article,S4210187269,JurPC,4079
+article,S2913369733,Japanese Journal of Neurosurgery,4071
+dataset,S7407053407,Astromaterials Data Archive,4068
+paratext,S4306463975,Teachers College Press eBooks,4040
+other,S4306402304,The Knowledge Bank (The Ohio State University),4039
+article,S7407051042,cyberleninka.ru,4033
+other,S7407055123,WU Research,3989
+report,S4306402652,US Army Corps of Engineers: Engineer Research and Development Center (Knowledge Core),3945
+paratext,S4306463695,Oldenbourg Wissenschaftsverlag eBooks,3942
+paratext,S4306464213,University Press of Kansas eBooks,3915
+paratext,S4306463742,Peter Lang eBooks,3868
+paratext,S4306462908,BENTHAM SCIENCE PUBLISHERS eBooks,3861
+paratext,S4306464207,University of Wisconsin Press eBooks,3844
+dataset,S7407051451,nmrXiv,3843
+dataset,S7407051695,IEEE DataPort,3824
+paratext,S4306463779,Presses de l'Université du Québec eBooks,3824
+article,S164128033,Science News,3820
+paratext,S4306462936,Bloomsbury Academic eBooks,3794
+other,S4306400929,MOspace Institutional Repository (University of Missouri),3745
+other,S4363604073,"Warfare in North America, c. 1756-1815",3745
+article,S4306401847,The University of North Carolina at Chapel Hill Digital Collections (The University of North Carolina at Chapel Hill),3738
+paratext,S194691280,Annalen der Physik,3736
+other,S7407064326,Fort Worth Library Archives,3693
+dataset,S4363604073,"Warfare in North America, c. 1756-1815",3691
+paratext,S4306480757,The New Press eBooks,3684
+paratext,S4306463877,SBL Press eBooks,3680
+dataset,S7407051994,Hugging Face,3651
+paratext,S4306463291,Fortress Press eBooks,3628
+paratext,S105746325,The Analyst,3607
+article,S4210172555,Journal of International Crisis and Risk Communication Research,3606
+paratext,S4306463131,Dykinson eBooks,3602
+article,S4210193380,Nippon Nōgeikagaku Kaishi,3578
+dataset,S4363604072,Dutch Pamphlets Online,3569
+paratext,S3880285,Science,3564
+article,S2764770508,Concrete Journal,3551
+article,S4306402195,CERN Document Server (European Organization for Nuclear Research),3528
+article,S4210213007,JOURNAL OF THE ILLUMINATING ENGINEERING INSTITUTE OF JAPAN,3522
+article,S4377196632,ScholarWorks - MoreheadState (Morehead State University),3520
+article,S4377196406,KeiO Associated Repository of Academic Resources (Keio University),3502
+other,S7407051412,Fondation Maison des sciences de l'homme,3500
+paratext,S4306463475,ISEAS Publishing eBooks,3464
+other,S4306400231,Repository Universitas PGRI Yogyakarta (Universitas PGRI Yogyakarta),3428
+report,S7407055233,TNO Repository,3422
+paratext,S4210187129,Journal of Physical Education and Sport,3407
+other,S7407050547,University of Colorado: Anschutz Medical Campus,3395
+other,S7407050910,Cifra LLC Journals,3371
+article,S4210225152,"Journal of the Ceramic Association, Japan",3349
+article,S4406922698,Tamkang University Institutional Repository (TKUIR),3337
+article,S2764646515,Tokyo Kagaku Kaishi,3336
+dataset,S4363604353,Datasets - Sistema SALVE - ICMBio,3324
+other,S4306400895,Bristol Research (University of Bristol),3302
+article,S7407064188,UCLA - Biblioteca de Administración y Contaduría,3265
+article,S4377196794,Online library Sukhoi State Technical University of Gome (Sukhoi State Technical University of Gomel),3264
+other,S4406923039,Gallica (Bibliothèque nationale de France),3240
+paratext,S2090548,The Journal of Physiology,3237
+other,S4377196760,Doria (University of Helsinki),3236
+dataset,S7407053072,Repositorio de Datos de Investigación de la Universidad de Chile,3220
+article,S957635290,The Musical Times,3206
+article,S2764383705,Journal of the Mining and Metallurgical Institute of Japan,3204
+article,S5406935105,Lighting Design + Application,3203
+dataset,S7407052420,MOST Wiedzy,3196
+article,S2764687680,Rinsho yakuri/Japanese Journal of Clinical Pharmacology and Therapeutics,3196
+article,S12279879,World Literature Today,3190
+paratext,S4306464171,University of Iowa Press eBooks,3190
+other,S4306400269,eNTUKhPIIR Repository (Kharkiv Polytechnic Institute),3189
+other,S4306401898,Cardinal Scholar (Ball State University),3160
+report,S4377196108,Hispana,3136
+article,S2765047315,Journal of Environmental Conservation Engineering,3135
+article,S56783896,SANGYO EISEIGAKU ZASSHI,3131
+other,S4306401458,CBS Research Portal (Copenhagen Business School),3102
+other,S4377196406,KeiO Associated Repository of Academic Resources (Keio University),3100
+other,S4377196484,BURJC Digital (King Juan Carlos University),3087
+other,S4306401454,Kyoto University Research Information Repository (Kyoto University),3082
+dataset,S7407052401,Cellular Senescence Network (SenNet),3061
+article,S194384443,Kanzo,3056
+other,S4306400078,SUNY Digital Repository Support (State University of New York System),3050
+other,S7407051627,National Technical University of Athens (NTUA),3036
+other,S4306401026,Industrias Culturais (Universidade de Coimbra),3026
+article,S2927652741,Journal of Education,3022
+paratext,S4306464152,University of Calgary Press eBooks,3011
+other,S4306401937,Digital Education Resource Archive (University College London),3009
+article,S140302479,Bulletin of the American Meteorological Society,3006
+article,S4210172978,Books Abroad,2993
+article,S118610483,Journal of Nippon Medical School,2990
+report,S7407064446,NORA - Norwegian Open Research Archives,2985
+article,S4210237421,Shokubutsugaku Zasshi,2981
+article,S4306400396,Electronic Kyiv-Mohyla Academy Institutional Repository (National University of Kyiv-Mohyla Academy),2964
+other,S4377196954,Research Exchange (Washington State University),2955
+other,S4306401436,Archive of European Integration (AEI) (University of Pittsburgh),2945
+article,S4210168923,土木学会論文集B2(海岸工学),2928
+paratext,S4306490536,UNP - Nebraska eBooks,2924
+article,S2764910039,Journal of the Meteorological Society of Japan Ser II,2904
+other,S4306402384,OpenBU (Boston University),2895
+paratext,S4306464240,Verlag Barbara Budrich eBooks,2884
+article,S4306401983,Research at the University of Copenhagen (University of Copenhagen),2864
+article,S4377196546,Electronic Library of Belarusian State Technological University (Belarusian State Technological University),2858
+article,S4377196662,Faculty Digital Archive (New York University Florence),2847
+other,S4377196928,Virtual Defense Library (Ministerio de Defensa),2839
+paratext,S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),2837
+article,S4210221959,Gulf Coast Association of Geological Societies,2801
+report,S4306402521,University of Minnesota Digital Conservancy (University of Minnesota),2799
+article,S4406923062,Репозиторий БГУИР (BSUIR Repository),2797
+paratext,S181332294,Physical Chemistry Chemical Physics,2796
+article,S196210972,Indiana University Mathematics Journal,2791
+paratext,S4306464215,University Press of Mississippi eBooks,2790
+article,S2913123441,The Japanese Journal of Ergonomics,2788
+article,S4306402258,"Electronic Institutional Repository of the National Aviation University of Ukraine (National Aviation University, Ukraine)",2762
+paratext,S4306463404,I.B.Tauris eBooks,2744
+dataset,S7407053157,SciELO - Scientific Electronic Library Online Dataverse,2743
+paratext,S174911965,Archiv der Pharmazie,2738
+paratext,S4306464195,University of South Carolina Press eBooks,2732
+paratext,S4306463018,Channel View Publications eBooks,2721
+paratext,S4306464225,Utah State University Press eBooks,2710
+article,S4210236005,Industrial & Engineering Chemistry,2709
+paratext,S207178839,Journal of Geophysical Research Atmospheres,2694
+paratext,S166159787,Dalton Transactions,2673
+other,S7407060180,NASA Life Sciences Portal,2672
+other,S4306401622,Minds at UW (University of Wisconsin),2669
+other,S7407051238,e-rara.ch,2658
+article,S137773608,Nature,2652
+other,S4306400934,Repository of Vinnytsia National Technical University (Vinnytsia National Technical University),2651
+article,S93676754,The Modern Language Review,2650
+paratext,S4306463729,Peeters Publishers eBooks,2649
+report,S4306401050,The Portal to Texas History (University of North Texas),2648
+article,S2764359438,Nihon Kessho Gakkaishi,2645
+paratext,S4363604161,Boletín Oficial del Obispado de Salamanca,2641
+other,S4306402433,"Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",2625
+other,S4377196575,INSTITUTIONAL REPOSITORY OF ODESSA NATIONAL UNIVERSITY NAMED I.I. Mechnykova (Odesa I.I.Mechnikov National University),2608
+article,S4210196937,Journal of Structural and Construction Engineering (Transactions of AIJ),2580
+article,S109361689,The American Journal of the Medical Sciences,2575
+dataset,S4363604103,Jacoby Online,2567
+article,S36068028,JAPAN TAPPI JOURNAL,2565
+paratext,S4306462838,Anthem Press eBooks,2543
+paratext,S4306463705,Oxbow Books,2536
+dataset,S7407051764,European Synchrotron Radiation Facility,2511
+article,S4210202639,Journal of the Society of Chemical Industry,2509
+other,S4406922393,HAL AMU,2499
+other,S7407064445,SIE - Sistema de Información Ambiental (CAR Cundinamarca),2499
+article,S2911945309,Journal of the Japan Veterinary Medical Association,2486
+paratext,S4306463009,Central European University Press eBooks,2479
+other,S4306402089,University of Debrecen Electronic Archive (University of Debrecen),2478
+article,S4210218965,Journal of the Japan Society of Precision Engineering,2474
+article,S2764775439,The Journal of the Geological Society of Japan,2464
+other,S4377196361,Digital Library of the Belarusian State University (Belarusian State University),2461
+paratext,S4306464007,The University Press of Kentucky eBooks,2460
+other,S7407050552,Archaeological Map of the Czech Republic - IGSN Catalog,2455
+article,S4210172156,The journal of the Japanese Practical Surgeon Society,2452
+paratext,S4306488747,1517 Media eBooks,2447
+other,S4377196605,San Andres Digital Repository  (University of San Andrés),2446
+article,S150314616,The Annals of the American Academy of Political and Social Science,2432
+article,S4210185465,Bulletin des Médecins Suisses,2430
+article,S4306547168,The Journal of The Institute of Image Information and Television Engineers,2429
+article,S88836445,AIJ Journal of Technology and Design,2426
+paratext,S4306462957,Boydell & Brewer eBooks,2393
+other,S4377196410,NSUWorks (Nova Southeastern University),2388
+other,S4306401816,Universidad de Córdoba Insitutional Repository (Universidad de Córdoba),2373
+paratext,S4377196272,Digital Commons - University of South Florida (University of South Florida),2370
+dataset,S7407064132,Reciprocalnet.org,2369
+paratext,S182211142,Methods in enzymology on CD-ROM/Methods in enzymology,2365
+report,S4306400387,Trinity's Access to Research Output (TARA) (Trinity College Dublin),2361
+other,S7407053378,ConfIDent,2361
+report,S4377196267,Institutional Archive of Ifremer (French Research Institute for Exploitation of the Sea),2360
+dataset,S4363604086,SciVee,2357
+article,S4306401345,Seoul National University Open Repository (Seoul National University),2354
+paratext,S41354064,ChemInform,2337
+other,S4363604067,Sax's Dangerous Properties of Industrial Materials,2327
+dataset,S4363604087,Collected Courses of the Hague Academy of International Law,2318
+other,S4306401924,Kobe University Repository Kernel (Kobe University),2304
+article,S7407055263,Neliti,2296
+dataset,S7407053272,Vivli,2289
+other,S4306400952,Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School),2287
+article,S4210188702,Nursing,2283
+article,S114875548,Journal of Information Processing and Management,2279
+article,S7407052752,Electronic Library of Peter the Great Polytechnic University,2272
+other,S4377196262,UPCommons institutional repository (Universitat Politècnica de Catalunya),2270
+dataset,S7407050910,Cifra LLC Journals,2269
+other,S4306505753,Catalysis from A to Z,2268
+article,S198339081,Electrochimica Acta,2260
+other,S7407064432,DalSpace (Dalhousie University),2256
+article,S4210240624,Bibliotheksdienst,2240
+paratext,S179810352,Organic & Biomolecular Chemistry,2239
+paratext,S4306463780,Presses de l'Université Laval eBooks,2231
+article,S4406922298,Electronic Library Belinsky,2228
+dataset,S7407051746,Centre de données socio-politiques,2224
+dataset,S4363604153,The Daily Worker Online,2197
+dataset,S7407051081,4TU.ResearchData,2195
+other,S4306402055,CGSPace A Repository of Agricultural Research Outputs (Consultative Group for International Agricultural Research),2189
+article,S90791864,Monthly Weather Review,2182
+paratext,S4306402304,The Knowledge Bank (The Ohio State University),2172
+paratext,S4210225590,Justus Liebig s Annalen der Chemie,2167
+article,S4306543457,体力科學,2164
+paratext,S4306463671,Northwestern University Press eBooks,2156
+paratext,S4377196308,ScholarsArchive  (Brigham Young University),2156
+other,S4306400413,DSpace (Federal University of Santa Catarina),2151
+other,S4377196304,CUNY Academic Works (City University of New York),2135
+dataset,S7407060497,«Fungarium» der Vereinigten Herbarien Zürich Z+ZT,2131
+paratext,S8802318,Annals of the New York Academy of Sciences,2130
+dataset,S4363604149,AAAS Articles DO Group,2128
+paratext,S4306464148,University of Arkansas Press eBooks,2121
+article,S180907581,Physics Today,2119
+report,S4306401814,Rivm Repository (Netherlands National Institute for Public Health and the Environment),2103
+paratext,S6377669,Soft Matter,2099
+dataset,S4363604159,Moscow News Archives,2094
+article,S2764878188,JOURNAL OF THE MARINE ENGINEERING SOCIETY IN JAPAN,2093
+other,S7407064237,The Seattle Public Library,2093
+dataset,S4363604183,North China Standard Online,2085
+article,S4306493659,고시계,2085
+article,S4306495048,아동문학평론,2082
+other,S4406923058,Seoul Metropolitan Library,2079
+paratext,S4306462757,Aarhus University Press eBooks,2078
+article,S4306402197,Електронний архів наукових та освітніх матеріалів КПІ ім. Ігоря Сікорського (КПІ ім. Ігоря Сікорського),2077
+paratext,S4306401280,DOAJ (DOAJ: Directory of Open Access Journals),2075
+dataset,S7407050779,"Natural History Museum, London",2072
+article,S7407055231,Bulgarian Portal for Open Science,2070
+other,S4306401576,Digital Collections (East Carolina University),2069
+article,S116566766,The Journal of the American Dental Association,2065
+article,S4210221755,Nihon Naika Gakkai Zasshi,2063
+article,S11097115,Public Health,2062
+paratext,S4306481914,University of Tennessee Press eBooks,2049
+article,S163495685,Music Educators Journal,2042
+article,S7407055264,eKNUTSHIR,2034
+report,S7407055123,WU Research,2032
+paratext,S104830714,FEBS Letters,2032
+other,S4306400792,University of North Texas Digital Library (University of North Texas),2030
+article,S167378199,Anthropology News,2025
+article,S3774022,The Journal of Pediatrics,2017
+other,S7407064443,"Institute of Process Engineering, CAS Institutional Repository",2007
+dataset,S7407052274,NRCT Data Center,1984
+article,S4377196796,Institutional Digital Library (Federal Senate),1984
+other,S4306402258,"Electronic Institutional Repository of the National Aviation University of Ukraine (National Aviation University, Ukraine)",1981
+paratext,S4306464212,University Press of Florida eBooks,1976
+article,S11454955,Inpharma Weekly,1975
+paratext,S168828829,Eos,1974
+article,S4306494664,창작과비평,1967
+other,S4306400126,ELTE Digital Institutional Repository (EDIT) (Eötvös Loránd University),1963
+other,S4306401748,Intellectum (Universidad de La Sabana),1963
+paratext,S4306401271,RePEc: Research Papers in Economics,1958
+article,S4210240034,The Reference Collection of Annual Meeting,1953
+paratext,S4377196299,Project Muse (Johns Hopkins University),1953
+article,S4306493943,경향잡지,1952
+paratext,S4210186231,The Journal of Comparative Neurology,1951
+other,S4306402185,Borys Grinchenko Kyiv University Institutional repository (Borys Grinchenko Kyiv University),1947
+paratext,S4210202639,Journal of the Society of Chemical Industry,1932
+article,S121735603,Surgical Neurology,1929
+paratext,S4306464203,University of Virginia Press eBooks,1928
+article,S4210200310,THE JOURNAL OF THE STOMATOLOGICAL SOCIETY JAPAN,1913
+dataset,S4363607695,International Year Book and Statesmen's Who's Who,1909
+other,S4306400803,El Servicio de Difusión de la Creación Intelectual (National University of La Plata),1904
+other,S4306401479,Holmes Museum Of Anthropology (Wichita State University),1904
+article,S198132698,Journal of The Surface Finishing Society of Japan,1897
+paratext,S4306464179,University of Massachusetts Press eBooks,1892
+article,S4306494046,문예운동,1890
+article,S4306401128,ResearchWorks at the University of Washington (University of Washington),1889
+paratext,S4306464169,University of Illinois Press eBooks,1881
+other,S4306400400,Digital library of Zielona Gora (University of Zielona Góra),1870
+article,S4306494047,문학춘추,1856
+paratext,S126033908,Cancer,1856
+other,S4377196325,Okayama University Scientific Achievement Repository (Okayama University),1850
+article,S2764955433,Bulletin of the Japan Institute of Metals,1846
+dataset,S4306402433,"Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",1842
+article,S107642792,The Expository Times,1838
+paratext,S86387881,The Laryngoscope,1832
+article,S4306401959,The scientific electronic library of periodicals of the National Academy of Sciences of Ukraine (National Academy of Sciences of Ukraine),1831
+other,S4306400523,Discovery Research Portal (University of Dundee),1831
+other,S4377196145,"Institutional Repository of Guangzhou Institute of Energy Research, Chinese Academy of Sciences",1831
+other,S4306400518,UR Research (University of Rochester),1821
+paratext,S100787194,Phytotaxa,1821
+paratext,S4306486300,Canadian Museum of History eBooks,1820
+dataset,S7407052332,ARIM Data Portal,1815
+dataset,S7407052475,Qatar National Library,1815
+paratext,S4306463862,Royal Society of Chemistry eBooks,1815
+other,S7407051782,Langues et civilisations à tradition orale,1812
+other,S4306400829,Sycamore Scholars (Indiana State University),1806
+other,S4306401085,GrazMuseum Online (GrazMuseum),1806
+other,S4306401333,Brock University Digital Repository (Brock University),1789
+other,S7407064446,NORA - Norwegian Open Research Archives,1788
+paratext,S4306463823,Purdue University Press eBooks,1786
+article,S4210207162,Jikken igaku zasshi,1783
+report,S4306400758,NERC Open Research Archive (Natural Environment Research Council),1783
+article,S4210187838,Electrical Engineering,1781
+article,S4306402292,Digital Collections of Colorado (Colorado State University),1781
+other,S7407064297,University of Michigan Library Repository,1781
+dataset,S4363604124,Encyclopaedia of the Qurʾān,1776
+article,S4210187385,Nippon Jibiinkoka Gakkai Kaiho,1776
+paratext,S140251998,Journal of Biological Chemistry,1776
+paratext,S95865439,CrystEngComm,1769
+article,S4377196272,Digital Commons - University of South Florida (University of South Florida),1768
+report,S7407055191,Lithuanian University of Health Sciences,1767
+article,S41650241,The Journal of Philosophy,1766
+report,S4377196282,Figshare,1762
+article,S111727011,Neurosurgery,1761
+report,S7407055455,Federal Open Science Repository of Canada / Le Dépôt fédéral de science ouverte du Canada,1759
+article,S66124381,IEEE Spectrum,1754
+article,S4306402460,Knowledge@UChicago (University of Chicago),1747
+dataset,S7407060599,DataverseNO - USN,1745
+article,S2738112740,Journal Of Babylon Center for Humanities Studies,1743
+article,S2764385719,Journal of Architecture and Planning (Transactions of AIJ),1732
+paratext,S50280174,Radiology,1730
+dataset,S4363604101,http://isrctn.com/,1729
+article,S2764951900,Transactions of the Architectural Institute of Japan,1725
+dataset,S7407050528,AIP Publishing,1718
+article,S19366293,Journal of Japan Society for Fuzzy Theory and Intelligent Informatics,1718
+article,S4306400934,Repository of Vinnytsia National Technical University (Vinnytsia National Technical University),1710
+other,S7407064315,Newton Gresham Library Digital Collections,1706
+paratext,S62468778,New England Journal of Medicine,1703
+article,S7407051237,e-manuscripta,1702
+article,S4210230924,Journal of the Japan Society for Precision Engineering,1701
+article,S4210240480,Chuoujuikaizasshi,1687
+paratext,S4306463402,Iberoamericana Vervuert eBooks,1687
+dataset,S7407052903,Universität Hamburg,1685
+report,S4306400149,PSU Knowledge Bank (Prince of Songkla University),1685
+paratext,S4406923040,Persée (Ministère de lEnseignement supérieur et de la Recherche),1681
+paratext,S171987449,Zeitschrift für anorganische und allgemeine Chemie,1679
+paratext,S2737892101,Journal of Applied Bioanalysis,1672
+other,S7407064273,CONTENTdm Server Respository,1664
+paratext,S4306463546,Les Presses de l'Université de Montréal eBooks,1664
+paratext,S194011547,Asian Survey,1662
+article,S150273397,Journal of the American Dietetic Association,1660
+other,S7407051296,IFREMER Sample Repository,1659
+other,S7407052952,TIB KMO / FLOWWORKS GmbH,1657
+dataset,S7407051892,JPL Data,1655
+paratext,S91099313,Acta Medica Scandinavica,1655
+paratext,S4306463451,Intellect Books,1653
+article,S4210196053,Man,1652
+article,S4306400860,Kumamoto University Repository (Kumamoto University),1648
+article,S144402922,Japanese Sociological Review,1647
+article,S14544163,Medicine & Science in Sports & Exercise,1638
+paratext,S4306464233,Vanderbilt University Press eBooks,1638
+paratext,S4306463226,El Colegio de México eBooks,1626
+paratext,S4306463969,Syracuse University Press eBooks,1624
+article,S4210185526,The Journal of the Institute of Electrical Engineers of Japan,1623
+paratext,S125795645,Chemie Ingenieur Technik,1623
+article,S4210194233,Victorian reports,1616
+report,S4306400757,eCommons (Cornell University),1616
+paratext,S23181512,Nanoscale,1616
+paratext,S38943393,DMW - Deutsche Medizinische Wochenschrift,1613
+article,S105746325,The Analyst,1611
+other,S7407055116,İzmir Katip Celebi University,1611
+dataset,S7407051745,Strasbourg Astronomical Data Center,1609
+other,S7407051637,University of Ioannina,1606
+other,S4306401204,Document Repository (Universitas Andalas),1602
+paratext,S2764437742,Journal of Materials Chemistry A,1597
+other,S4363604058,Electronic Enlightenment Scholarly Edition of Correspondence,1595
+other,S4306400393,Deep Blue (University of Michigan),1594
+other,S4306400885,Mercer University Libraries (Mercer University),1594
+paratext,S4210191012,Izvestia Orenburg State Agrarian University,1591
+dataset,S4363604111,"Encyclopaedia of Islam, First Edition (1913-1936)",1589
+report,S7407050729,Archaeology Data Service,1585
+article,S4306402276,UND Scholarly Commons (University of North Dakota),1584
+report,S4306400952,Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School),1579
+article,S100736837,Plastic & Reconstructive Surgery,1577
+article,S2764966405,Nihon Bika Gakkai Kaishi (Japanese Journal of Rhinology),1569
+article,S180263418,Journal of Visual Impairment & Blindness,1567
+paratext,S165651092,International Journal for Numerical Methods in Engineering,1565
+paratext,S4306462787,Akademie Verlag eBooks,1562
+article,S4377196525,Repository of Samara University (Samara National Research University),1556
+paratext,S2500738039,Journal of Materials Chemistry C,1555
+paratext,S4306464204,University of Wales Press eBooks,1553
+other,S7407051906,Division Technique de l'INSU,1548
+other,S4306400315,Repositorio Digital (Escuela Politécnica Nacional),1545
+other,S7407051639,University of Peloponnese,1540
+other,S7407055439,Repository of Open Collections and Knowledge (ROCK),1536
+paratext,S2479884170,Journal of Materials Chemistry B,1536
+other,S4306401067,Radboud Repository (Radboud University),1532
+other,S4306401835,Adelaide Research & Scholarship (AR&S) (University of Adelaide),1522
+paratext,S122176235,The American Naturalist,1519
+paratext,S23243006,Veterinary Record,1519
+paratext,S4306481760,University of Colorado Press eBooks,1515
+dataset,S7407051490,Syracuse University Qualitative Data Repository,1512
+dataset,S7407053005,Universitäts- und Landesbibliothek Münster,1510
+other,S4377196555,infoteca-e (Brazilian Agricultural Research Corporation),1496
+other,S7407051460,Georgia State University Repository,1496
+paratext,S4306525036,PubMed,1491
+paratext,S71285955,American Journal of Clinical Nutrition,1490
+other,S4306400975,"RUA, Repositorio Institucional de la Universidad de Alicante (Universidad de Alicante)",1487
+other,S4306402467,DigitalGeorgetown (Georgetown University Library),1486
+report,S7407055454,ORBi UMONS,1475
+dataset,S7407053212,USGS DOI Tool Production Environment,1474
+paratext,S58498366,Journal of Periodontology,1472
+paratext,S316438,Chemical Society Reviews,1465
+paratext,S199498439,Acta Psychiatrica Scandinavica,1464
+paratext,S45305740,Journal of Materials Chemistry,1464
+other,S7407051246,"E-Pics 6, Sternwarte",1454
+paratext,S187215728,Polymer Chemistry,1453
+paratext,S170358085,Analytical Methods,1452
+other,S7407053000,Universitätsbibliothek Tübingen,1451
+dataset,S7407064227,Filmoteca,1449
+report,S4306400786,Americanae (AECID Library),1441
+paratext,S71584477,Bulletin of the American Mathematical Society,1441
+paratext,S25774322,Juristische Rundschau,1440
+paratext,S4306471920,Hamilton eBooks,1437
+paratext,S4210205341,Zeitschrift für Elektrochemie und angewandte physikalische Chemie,1436
+paratext,S4306401616,"AgEcon Search (University of Minnesota, USA)",1429
+paratext,S4306490186,Universidad del Externado de Colombia eBooks,1421
+report,S4306401696,Econstor (Econstor),1419
+dataset,S7407060106,Outils et Ressources pour un Traitement Optimisé de la LANGue,1418
+dataset,S4306400334,Science and Technology Facilities Council,1413
+paratext,S4306464034,UCL Press eBooks,1406
+dataset,S7407052304,Borealis,1392
+paratext,S4377196368,UNM’s Digital Repository (University of New Mexico),1389
+other,S4306400662,Research Explorer (The University of Manchester),1387
+other,S7407051904,COCOON,1380
+report,S4306401983,Research at the University of Copenhagen (University of Copenhagen),1378
+dataset,S7407051990,ESA,1377
+paratext,S164128033,Science News,1377
+paratext,S4210222064,Journal of Experimental Zoology,1375
+report,S7407050551,Archaeological Map of the Czech Republic,1366
+paratext,S7407064432,DalSpace (Dalhousie University),1365
+report,S2809516038,National Bureau of Economic Research,1364
+other,S7407055335,"Centrum Wiskunde & Informatica (CWI), the national research institute for mathematics and computer science in the Netherlands",1364
+other,S7407055233,TNO Repository,1359
+dataset,S7407050885,UC Santa Barbara,1357
+paratext,S45720283,British Journal of Dermatology,1357
+dataset,S4306400393,Deep Blue (University of Michigan),1351
+paratext,S24940445,American Water Works Association,1349
+other,S4306400255,BIBSYS Brage (BIBSYS (Norway)),1346
+other,S4306402036,OpenstarTs (Univeristy of Trieste https://www.units.it/),1346
+dataset,S4363604117,"Encyclopaedia of Islam, Second Edition, Glossary and Index of Terms",1338
+report,S4306401934,Open Repository of the University of Porto (University of Porto),1338
+dataset,S7407052970,RepOD,1336
+other,S4306400256,Acervo Digital da Universidade Estadual Paulista (Universidade Estadual Paulista),1329
+other,S7407051545,University Library Heidelberg,1329
+paratext,S137865625,Surface Science,1328
+paratext,S4210219161,Nordisk Medicinskt Arkiv Avd 2,1325
+paratext,S178469169,Acta Paediatrica,1320
+dataset,S4363604059,CABI Compendium,1319
+dataset,S7407051487,UNC Dataverse,1312
+paratext,S88153332,Journal of Nutrition,1309
+paratext,S102499938,American Anthropologist,1308
+other,S7407050895,HEPData,1299
+paratext,S4306463691,Ohio State University Press eBooks,1297
+paratext,S36793815,New Journal of Chemistry,1292
+other,S7407055450,Arca - Repositório Institucional da Fiocruz,1288
+paratext,S5382288,International Journal of Cancer,1284
+dataset,S7407050729,Archaeology Data Service,1279
+paratext,S4306464192,University of Ottawa Press eBooks,1279
+dataset,S7407052659,Data Archive for Social Sciences in Italy - DASSI,1275
+paratext,S116836101,Lab on a Chip,1269
+paratext,S200764475,Journal of Applied Polymer Science,1269
+other,S4306401653,Dipòsit Digital de la Universitat de Barcelona (Universitat de Barcelona),1267
+paratext,S4306463692,Ohio University Press eBooks,1264
+paratext,S38766774,Surgical Clinics of North America,1262
+other,S4306401412,DSpace repository (University of Tartu),1259
+paratext,S108008259,Journal of Organometallic Chemistry,1258
+paratext,S4210228690,Journal of the Society of Dyers and Colourists,1254
+paratext,S156773718,School Science and Mathematics,1252
+paratext,S4210210551,Journal of the Chemical Society Dalton Transactions,1252
+dataset,S7407051058,The Dartmouth Institute,1251
+other,S4306401253,Institutional Repository of the National University Open and Distance UNAD (Universidad Nacional Abierta y a Distancia),1245
+paratext,S102125482,Journal of Pharmacology and Experimental Therapeutics,1245
+paratext,S4306463623,Michigan State University Press eBooks,1241
+paratext,S205086949,American Journal of Botany,1228
+paratext,S7407064297,University of Michigan Library Repository,1223
+dataset,S7407051491,University of Campinas,1221
+dataset,S4363604108,Encyclopaedia Iranica Online,1220
+dataset,S7407051768,NAKALA,1219
+paratext,S4210201432,Journal of the Chemical Society Chemical Communications,1219
+dataset,S7407050935,中国科学院科学数据中心,1218
+other,S4306400149,PSU Knowledge Bank (Prince of Songkla University),1213
+dataset,S7407051204,Earth Observing System Data and Information System,1211
+dataset,S7407052779,Barbara A. Mikulski Archive for Space Telescopes,1198
+other,S4306402624,TUScholarShare (Temple University),1196
+dataset,S4363604092,Foreign Law Guide,1194
+report,S7407055450,Arca - Repositório Institucional da Fiocruz,1192
+other,S4306401249,Jagiellonian University Repository (Jagiellonian University),1185
+other,S4306401731,VBN Forskningsportal (Aalborg Universitet),1173
+other,S7407053136,University of Michigan Library,1171
+other,S7407052985,Technische Universität Berlin – Universitätsbibliothek,1168
+dataset,S7407053452,FAIRsharing.org,1160
+report,S4306401559,KTH Publication Database DiVA (KTH Royal Institute of Technology),1156
+other,S7407064235,Digital Collections at BYU,1143
+other,S4306400318,Fraunhofer-Publica (Fraunhofer-Gesellschaft),1142
+other,S4377196675,Our Digital Library (Warsaw University of Technology),1139
+dataset,S7407052431,Wydawnictwo Politechniki Łódzkiej,1125
+report,S4306401904,Jaea Originated Papers Searching System (National Research and Development Corporation Japan Atomic Energy Agency),1125
+other,S7407050879,UC Berkeley,1115
+dataset,S7407052712,The Chandra Data Archive,1104
+report,S4306401681,Rivm (National Institute for Public Health and the Environment),1101
+report,S4377196281,Issue Lab (Candid),1101
+dataset,S4306503843,Authors group,1090
+dataset,S7407051644,Space Physics Data Facility,1079
+report,S7407055101,CNR ExploRA,1079
+report,S4210201231,Socio-Environmental Systems Modeling,1057
+dataset,S7407053154,Corpus of Stamp Seals from the Southern Levant,1052
+report,S4306401621,Eureka! Institutional Repository (Eureka!),1052
+report,S4406922641,TU/e Research Portal,1051
+report,S4377196406,KeiO Associated Repository of Academic Resources (Keio University),1041
+report,S4306400271,UA Campus Repository (The University of Arizona),1028
+report,S4306401710,Institutional Repository (IHS Vienna),1028
+dataset,S4363604148,Dead Sea Scrolls Electronic Library Non-Biblical Texts,1018
+dataset,S7407060204,AIND Prod Repo,1018
