@@ -43,16 +43,24 @@ going to place them.
 `place` asks the narrower question: how far can you get from **title + source +
 type + keywords alone**, and at what precision. Open-weights only:
 
+- **Kev-9B** (`jaredpalmer/kev`, Qwen3.5-9B base, LoRA r=16 + pointer head,
+  Apache-2.0) — one-pass typed decisions over enumerated options with
+  calibration in the checkpoint. 0.852 on sources it never trained on, against
+  hosted Jev's 0.857. Drop-in `POST /v1/systemone`. Fine-tune with `--init_from`
+  the released checkpoint, never from base.
 - **GLiNER2.5** (`fastino/gliner2.5-multi-v1`, 287M, Apache-2.0) — zero-shot
-  classification against subfield labels, plus entity extraction from titles.
-- **Jev-class typed decisions** — one-pass option-logit scoring (openjev /
-  jevmlx lineage) for "which subfield", calibrated, no token generation, which
-  is what makes 12M records tractable.
+  classification against subfield labels and entity extraction from titles. The
+  floor: no training, so it says what is achievable before anyone fits anything.
+- **Laya / laya-coreml** — Core ML + Neural Engine port of the same typed-decision
+  primitives, 4.98 ms P50 on an M3 Max. The throughput path if 12.7M records
+  have to run locally.
 
 **Acceptance:** report coverage at ≥90% precision on a held-out slice of works
 that *do* have topics, restricted to metadata the dataset records actually
 carry. "Almost none" is a valid and useful answer — it settles the
-separate-denominator question with evidence.
+separate-denominator question with evidence. Kev's own README is blunt that a
+fixed temperature cannot reorder confidences, so the usable threshold is fitted
+here, on this data, not inherited.
 
 ### 3. `plumb split` — sink-topic splitter
 Seven topics sit above 20× the median (57,439 works). `Military Technology and
