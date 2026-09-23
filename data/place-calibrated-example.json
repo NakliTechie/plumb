@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "kind": "place_predictions",
+  "input_sha256": "8c79d0cbed9bb00494c06094d604fbc65d3832e75b42e9440156859f36e1957c",
+  "taxonomy_sha256": "c40c446d67677ec9cd52894674fdbe8fd0fcc99a53d29111368043c09db08409",
+  "model": {
+    "backend": "gliner",
+    "model": "fastino/gliner2.5-multi-v1",
+    "revision": "a221b77a8baf4a613b8f8652661d41fa10a5641e",
+    "device": "mps",
+    "scoring": "exclusive-softmax-v1",
+    "runtime": {
+      "gliner2": "2.0.0",
+      "torch": "2.14.0",
+      "transformers": "4.57.6"
+    }
+  },
+  "strategy": "flat",
+  "level": "subfield",
+  "feature_policy": "title-source-type-supplied-keywords-v1",
+  "calibrated": true,
+  "reference": "primary",
+  "rows": [
+    {
+      "work_id": "https://openalex.org/W585439491",
+      "title": "A-16-43 テクスチャプロジェクション方式複合現実感ディスプレイにおける影付け表現",
+      "type": "article",
+      "status": "abstain",
+      "prediction": "1704",
+      "confidence": 0.04371597448087598,
+      "candidates": [
+        {
+          "id": "1704",
+          "name": "Computer Graphics and Computer-Aided Design",
+          "probability": 0.04371597448087598
+        },
+        {
+          "id": "1200",
+          "name": "General Arts and Humanities",
+          "probability": 0.04024698231944865
+        },
+        {
+          "id": "3103",
+          "name": "Astronomy and Astrophysics",
+          "probability": 0.037462624388381986
+        }
+      ],
+      "route": []
+    },
+    {
+      "work_id": "https://openalex.org/W3006246480",
+      "title": "Agences et politiques publiques",
+      "type": "article",
+      "status": "abstain",
+      "prediction": "1710",
+      "confidence": 0.051506556032618264,
+      "candidates": [
+        {
+          "id": "1710",
+          "name": "Information Systems",
+          "probability": 0.051506556032618264
+        },
+        {
+          "id": "1404",
+          "name": "Management Information Systems",
+          "probability": 0.04745949888480342
+        },
+        {
+          "id": "3308",
+          "name": "Law",
+          "probability": 0.04064870920107052
+        }
+      ],
+      "route": []
+    },
+    {
+      "work_id": "https://openalex.org/W4234009715",
+      "title": "Achievements of Researchers and Teachers Recognized during APSA Honors Reception",
+      "type": "article",
+      "status": "abstain",
+      "prediction": "3320",
+      "confidence": 0.13453496791310857,
+      "candidates": [
+        {
+          "id": "3320",
+          "name": "Political Science and International Relations",
+          "probability": 0.13453496791310857
+        },
+        {
+          "id": "1207",
+          "name": "History and Philosophy of Science",
+          "probability": 0.12492258315266065
+        },
+        {
+          "id": "2922",
+          "name": "Research and Theory",
+          "probability": 0.11981451666185665
+        }
+      ],
+      "route": []
+    }
+  ],
+  "output": {
+    "limit": 20,
+    "total_rows": 3,
+    "truncated": false
+  }
+}

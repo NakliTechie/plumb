@@ -1,0 +1,19 @@
+{
+  "taxonomy_topics": 4516,
+  "labels": {
+    "domain": 4,
+    "field": 26,
+    "subfield": 252
+  },
+  "partitions": {
+    "calibration": 146,
+    "train": 364,
+    "test": 90
+  },
+  "cross_partition_source_or_duplicate_leakage": false,
+  "sink_assignments_accounted": 2100,
+  "json_csv_assignments_match": true,
+  "training_export_records": 128,
+  "training_export_contains_only_train": true,
+  "training_hash_matches": true
+}

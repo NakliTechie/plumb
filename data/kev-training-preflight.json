@@ -1,0 +1,17 @@
+{
+  "check": "native Kev tokenizer/context admission",
+  "device": "cpu",
+  "host": "existing Mac Studio",
+  "checkpoint": "jaredpalmer/kev-9b@2629c06a5aeb0feb3b9783bafed17ed8f39ecf5c",
+  "base": "Qwen/Qwen3.5-9B-Base",
+  "kev_source_commit": "1c351992ba3df4a0a0f2ae03051b25466a2c7bcb",
+  "train_sha256": "b2d7632063162a2bb86e262adba854a54f57b3a88ce09e217107c8553b330752",
+  "records": 128,
+  "rejected_ids": [],
+  "maximum_packed_tokens": 625,
+  "lora_rank": 16,
+  "head_dim": 256,
+  "option_isolation": false,
+  "special_embeddings": false,
+  "limitation": "Tokenizer admission only; not evidence of training or inference"
+}

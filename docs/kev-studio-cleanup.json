@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "completed_at_utc": "2026-09-22T18:08:40Z",
+  "local_checkpoint": {
+    "path": "models/kev-plumb-v1",
+    "fingerprint": "e8c996169c1440cee5554e2a9e8ea42d0f6c3fa2dcbaf131b61c40316b603812",
+    "files": {
+      "README.md": "38fff3051be4f97d050193ad7d9aa5d2e110d4a6512db70048a778f718bf7d10",
+      "adapter_config.json": "348fa4659695175c4ded6c58ca9cff3e688d961df4a7180123af9a16e52c490e",
+      "adapter_model.safetensors": "1bb5d7a0c550a64e482bfc9ea189992162b107b7cd9c55319071f09c809c7861",
+      "chat_template.jinja": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+      "head.pt": "3a17b75e6d0876b8ab8a601bdb9870b181822e4519ac35bf9af83d35b55673a1",
+      "tokenizer.json": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+      "tokenizer_config.json": "8671bed7c852ce9e661be94f179a7b4ffd091c2a65aea0363e5501c20318ee45",
+      "training_config.json": "d0508849d206bf788aeb776a022f545ce76da4cbf251ed19b5d749645fa85a38",
+      "training_metrics.json": "4ea60aed373611cb5da29201771d05c7a6eaf9e39e57b1b299b780f17da37fe8"
+    },
+    "remote_hashes_matched_before_deletion": true
+  },
+  "local_results": {
+    "data/place-kev-evaluation.json": "da2f263326dee503339532234f21896d52363e6b2d7c47bc4f62f25a3cb7c035",
+    "data/kev-training-metrics.json": "7583bacb4e43bb7908a568254dd31564a7508be40141809dd76c3687bfa5260c"
+  },
+  "remote_removed": [
+    "/Users/ompatnaik/code/chirag/plumb",
+    "/Users/ompatnaik/.cache/huggingface/hub/models--jaredpalmer--kev-9b",
+    "/Users/ompatnaik/.cache/huggingface/hub/models--Qwen--Qwen3.5-9B-Base",
+    "/Users/ompatnaik/.cache/huggingface/hub/.locks/models--jaredpalmer--kev-9b",
+    "/Users/ompatnaik/.cache/huggingface/hub/.locks/models--Qwen--Qwen3.5-9B-Base",
+    "/tmp/plumb-hf-speed-probe"
+  ],
+  "remote_absence_verified": true,
+  "studio_compute_lock_free": true,
+  "ssh_tunnel_closed": true
+}

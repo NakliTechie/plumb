@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "kind": "kev_training_metrics",
+  "checkpoint": "models/kev-plumb-v1",
+  "checkpoint_fingerprint": "e8c996169c1440cee5554e2a9e8ea42d0f6c3fa2dcbaf131b61c40316b603812",
+  "init_from": "jaredpalmer/kev-9b@2629c06a5aeb0feb3b9783bafed17ed8f39ecf5c",
+  "base": "Qwen/Qwen3.5-9B-Base",
+  "base_revision": "68c46c4b3498877f3ef123c856ecfde50c39f404",
+  "training_data_sha256": "b2d7632063162a2bb86e262adba854a54f57b3a88ce09e217107c8553b330752",
+  "wall_seconds": 996.9130120277405,
+  "records_seen": 128,
+  "requested_records": 128,
+  "truncated_records": 0,
+  "rejected_records": 0,
+  "optimizer_steps": 16,
+  "forward_tokens": 44193,
+  "peak_device_bytes": 16706714368,
+  "peak_rss_bytes": 5904105472,
+  "device": "mps",
+  "weights_dtype": "bf16",
+  "training_dtype": "fp32"
+}

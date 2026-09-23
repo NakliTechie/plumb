@@ -1,0 +1,16 @@
+Installed 13 packages in 109ms
+F....................................................                    [100%]
+=================================== FAILURES ===================================
+______________________ test_known_mapping_case_in_top_50 _______________________
+
+ranks = {'T11198': 1, 'T12164': 2, 'T13823': 3, 'T13575': 4, ...}
+
+    def test_known_mapping_case_in_top_50(ranks):
+>       assert ranks['T12157'] <= 50, f"Known case ranked {ranks['T12157']}; the predeclared acceptance gate is unmet"
+E       AssertionError: Known case ranked 914; the predeclared acceptance gate is unmet
+E       assert 914 <= 50
+
+tests/test_acceptance.py:18: AssertionError
+=========================== short test summary info ============================
+FAILED tests/test_acceptance.py::test_known_mapping_case_in_top_50 - Assertio...
+1 failed, 52 passed in 44.95s

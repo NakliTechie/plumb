@@ -1,0 +1,4 @@
+PASS: published top-50 JSON is byte-identical to direct CLI export.
+PASS: score CSV contains all 4,516 unique topics with contiguous ranks and matching scores.
+PASS: 50 review records cover exactly the top 50 and share the input snapshot hash.
+PASS: all 4,516 scores are finite and bounded to [0, 1].

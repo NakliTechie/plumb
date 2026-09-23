@@ -1,0 +1,1414 @@
+{
+  "schema_version": 1,
+  "kind": "place_width_probe",
+  "input_sha256": "8274fd72802887afc2b056ba60467455f35aff5c36025509cc626d0f80a307e8",
+  "taxonomy_sha256": "c40c446d67677ec9cd52894674fdbe8fd0fcc99a53d29111368043c09db08409",
+  "model": {
+    "backend": "kev",
+    "model": "jaredpalmer/kev-9b@2629c06a5aeb0feb3b9783bafed17ed8f39ecf5c",
+    "base": "Qwen/Qwen3.5-9B-Base",
+    "fingerprint": "b9f6862dce5b6836f3e6106c360faafe13c2ec5bc3a6c89de8e5a39038a1173e",
+    "device": "mps",
+    "runtime": {
+      "kev": "0.1.0",
+      "torch": "2.8.0",
+      "transformers": "5.17.0",
+      "peft": "0.21.0"
+    },
+    "dtype": "bfloat16",
+    "temperature": 2.2973967099940698,
+    "scoring": "full-precision-choice-v1"
+  },
+  "partition": "calibration",
+  "summary": {
+    "domain": {
+      "option_count": 4,
+      "evaluated": 12,
+      "primary_accuracy": 0.5,
+      "any_topic_accuracy": 0.75,
+      "median_seconds": 0.6145328749989858
+    },
+    "field": {
+      "option_count": 26,
+      "evaluated": 12,
+      "primary_accuracy": 0.3333333333333333,
+      "any_topic_accuracy": 0.6666666666666666,
+      "median_seconds": 1.2566823329980252
+    },
+    "subfield": {
+      "option_count": 252,
+      "evaluated": 12,
+      "primary_accuracy": 0.08333333333333333,
+      "any_topic_accuracy": 0.3333333333333333,
+      "median_seconds": 8.99331347849511
+    }
+  },
+  "rows": [
+    {
+      "work_id": "https://openalex.org/W1021273750",
+      "title": "Pengaruh Komposisi Campuran Limbah Cair Industri Tapioka dan Air Terhadap Gas Bio yang Dihasilkan",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1",
+      "confidence": 0.45012411680951053,
+      "candidates": [
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.45012411680951053
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.38796141509438636
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.1004012670651975
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3",
+      "true_any_topic": [
+        "1",
+        "3"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 1.6508727089967579
+    },
+    {
+      "work_id": "https://openalex.org/W104831435",
+      "title": "ANALISIS PENGGUNAAN GOGGLES DALAM PEKERJAANSHOTCRETE PADA TAMBANG BAWAH TANAH DOZ( DEEP ORE ZONE ) DI PT. FREEPORT INDONESIAPAPUA",
+      "type": "dissertation",
+      "status": "predicted",
+      "prediction": "3",
+      "confidence": 0.5087952055692315,
+      "candidates": [
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.5087952055692315
+        },
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.25702411127853475
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.12435053381584982
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "4",
+      "true_any_topic": [
+        "4"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6486647499841638
+    },
+    {
+      "work_id": "https://openalex.org/W1521357402",
+      "title": "Famílies i cases senyorials de Castelló d'Empúries",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2",
+      "confidence": 0.769307553768158,
+      "candidates": [
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.769307553768158
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.09157927334308624
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.0745951384305954
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2",
+      "true_any_topic": [
+        "2"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6118967090151273
+    },
+    {
+      "work_id": "https://openalex.org/W1532830450",
+      "title": "Mythes politiques et analyse de réseaux",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2",
+      "confidence": 0.9408614127245155,
+      "candidates": [
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.9408614127245155
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.02957611371258777
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.01691657027121533
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2",
+      "true_any_topic": [
+        "2"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.9902815840032417
+    },
+    {
+      "work_id": "https://openalex.org/W1543671442",
+      "title": "Processing and Property Evaluation of Silver or Aluminum Matrix YBa2Cu3O6+x Superconducting Materials",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "3",
+      "confidence": 0.954066542513727,
+      "candidates": [
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.954066542513727
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.018558040797057807
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.014984886594611672
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3",
+      "true_any_topic": [
+        "3"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6130112090031616
+    },
+    {
+      "work_id": "https://openalex.org/W1583421561",
+      "title": "La herencia de caracteres adquiridos",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1",
+      "confidence": 0.4947190432166768,
+      "candidates": [
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.4947190432166768
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.2602647024471969
+        },
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.14707252821542408
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2",
+      "true_any_topic": [
+        "2"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6509023339895066
+    },
+    {
+      "work_id": "https://openalex.org/W1668347497",
+      "title": "New Approaches in Medical Image Analysis",
+      "type": "book",
+      "status": "predicted",
+      "prediction": "4",
+      "confidence": 0.6946645521396959,
+      "candidates": [
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.6946645521396959
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.22901659183051903
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.061936331319249506
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3",
+      "true_any_topic": [
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.4295394579821732
+    },
+    {
+      "work_id": "https://openalex.org/W1726374298",
+      "title": "Le Regioni e l'unità nelle politiche pubbliche",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2",
+      "confidence": 0.9290544193622267,
+      "candidates": [
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.9290544193622267
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.03347869948488701
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.023514908462962576
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2",
+      "true_any_topic": [
+        "2"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.39549229200929403
+    },
+    {
+      "work_id": "https://openalex.org/W1783185376",
+      "title": "Do we have the resources and right ecosystem to channel the Indian work force to accelerate research and innovation?",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "4",
+      "confidence": 0.5822152961295405,
+      "candidates": [
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.5822152961295405
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.21386803208586502
+        },
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.14436024104743658
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2",
+      "true_any_topic": [
+        "2"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6046312499966007
+    },
+    {
+      "work_id": "https://openalex.org/W1936938468",
+      "title": "통일에 대비한 한국의 통일비용 재원조달방안에 관한 논의",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2",
+      "confidence": 0.9594913468214888,
+      "candidates": [
+        {
+          "id": "2",
+          "name": "Social Sciences",
+          "probability": 0.9594913468214888
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.01793608842051737
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.013286119082773743
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3",
+      "true_any_topic": [
+        "2",
+        "3"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6160545409948099
+    },
+    {
+      "work_id": "https://openalex.org/W1970007185",
+      "title": "Thoracic Epidural Steroid Injection for Rib Fracture Pain",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "4",
+      "confidence": 0.8352019105225605,
+      "candidates": [
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.8352019105225605
+        },
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.15109012866207266
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.006913911014745923
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "4",
+      "true_any_topic": [
+        "4"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.6087993750115857
+    },
+    {
+      "work_id": "https://openalex.org/W1977509814",
+      "title": "The Liver as a Central Regulator of Hydrogen Sulfide",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1",
+      "confidence": 0.48915803367841443,
+      "candidates": [
+        {
+          "id": "1",
+          "name": "Life Sciences",
+          "probability": 0.48915803367841443
+        },
+        {
+          "id": "4",
+          "name": "Health Sciences",
+          "probability": 0.48801243233754826
+        },
+        {
+          "id": "3",
+          "name": "Physical Sciences",
+          "probability": 0.01284603012925566
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1",
+      "true_any_topic": [
+        "1",
+        "4"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "domain",
+      "option_count": 4,
+      "elapsed_seconds": 0.621128625003621
+    },
+    {
+      "work_id": "https://openalex.org/W1021273750",
+      "title": "Pengaruh Komposisi Campuran Limbah Cair Industri Tapioka dan Air Terhadap Gas Bio yang Dihasilkan",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "23",
+      "confidence": 0.24358836933533212,
+      "candidates": [
+        {
+          "id": "23",
+          "name": "Environmental Science",
+          "probability": 0.24358836933533212
+        },
+        {
+          "id": "15",
+          "name": "Chemical Engineering",
+          "probability": 0.16844743691967265
+        },
+        {
+          "id": "21",
+          "name": "Energy",
+          "probability": 0.1313794005759682
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "23",
+      "true_any_topic": [
+        "11",
+        "23"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.6830882499925792
+    },
+    {
+      "work_id": "https://openalex.org/W104831435",
+      "title": "ANALISIS PENGGUNAAN GOGGLES DALAM PEKERJAANSHOTCRETE PADA TAMBANG BAWAH TANAH DOZ( DEEP ORE ZONE ) DI PT. FREEPORT INDONESIAPAPUA",
+      "type": "dissertation",
+      "status": "predicted",
+      "prediction": "22",
+      "confidence": 0.5153065978665891,
+      "candidates": [
+        {
+          "id": "22",
+          "name": "Engineering",
+          "probability": 0.5153065978665891
+        },
+        {
+          "id": "19",
+          "name": "Earth and Planetary Sciences",
+          "probability": 0.21487866587216375
+        },
+        {
+          "id": "23",
+          "name": "Environmental Science",
+          "probability": 0.05631122802366739
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "36",
+      "true_any_topic": [
+        "36"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.3891199579811655
+    },
+    {
+      "work_id": "https://openalex.org/W1521357402",
+      "title": "Famílies i cases senyorials de Castelló d'Empúries",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "12",
+      "confidence": 0.6903103652939316,
+      "candidates": [
+        {
+          "id": "12",
+          "name": "Arts and Humanities",
+          "probability": 0.6903103652939316
+        },
+        {
+          "id": "33",
+          "name": "Social Sciences",
+          "probability": 0.1299613242233505
+        },
+        {
+          "id": "34",
+          "name": "Veterinary",
+          "probability": 0.014998416916781788
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "12",
+      "true_any_topic": [
+        "12"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.3383506670070346
+    },
+    {
+      "work_id": "https://openalex.org/W1532830450",
+      "title": "Mythes politiques et analyse de réseaux",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "33",
+      "confidence": 0.5493209457915815,
+      "candidates": [
+        {
+          "id": "33",
+          "name": "Social Sciences",
+          "probability": 0.5493209457915815
+        },
+        {
+          "id": "12",
+          "name": "Arts and Humanities",
+          "probability": 0.20260993708203917
+        },
+        {
+          "id": "17",
+          "name": "Computer Science",
+          "probability": 0.03509505162630764
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "12",
+      "true_any_topic": [
+        "12",
+        "33"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.0879792500054464
+    },
+    {
+      "work_id": "https://openalex.org/W1543671442",
+      "title": "Processing and Property Evaluation of Silver or Aluminum Matrix YBa2Cu3O6+x Superconducting Materials",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "25",
+      "confidence": 0.6810943085691522,
+      "candidates": [
+        {
+          "id": "25",
+          "name": "Materials Science",
+          "probability": 0.6810943085691522
+        },
+        {
+          "id": "22",
+          "name": "Engineering",
+          "probability": 0.08035321021545089
+        },
+        {
+          "id": "16",
+          "name": "Chemistry",
+          "probability": 0.07181853264137342
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "22",
+      "true_any_topic": [
+        "22"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.261705290991813
+    },
+    {
+      "work_id": "https://openalex.org/W1583421561",
+      "title": "La herencia de caracteres adquiridos",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "13",
+      "confidence": 0.3689633395747128,
+      "candidates": [
+        {
+          "id": "13",
+          "name": "Biochemistry, Genetics and Molecular Biology",
+          "probability": 0.3689633395747128
+        },
+        {
+          "id": "27",
+          "name": "Medicine",
+          "probability": 0.1485044841772058
+        },
+        {
+          "id": "12",
+          "name": "Arts and Humanities",
+          "probability": 0.05381246408942305
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "12",
+      "true_any_topic": [
+        "12"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.30877104200772
+    },
+    {
+      "work_id": "https://openalex.org/W1668347497",
+      "title": "New Approaches in Medical Image Analysis",
+      "type": "book",
+      "status": "predicted",
+      "prediction": "27",
+      "confidence": 0.23299895089592662,
+      "candidates": [
+        {
+          "id": "27",
+          "name": "Medicine",
+          "probability": 0.23299895089592662
+        },
+        {
+          "id": "22",
+          "name": "Engineering",
+          "probability": 0.19419023528297652
+        },
+        {
+          "id": "36",
+          "name": "Health Professions",
+          "probability": 0.1728000371158097
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "17",
+      "true_any_topic": [
+        "17",
+        "27",
+        "28"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": false,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.144212958024582
+    },
+    {
+      "work_id": "https://openalex.org/W1726374298",
+      "title": "Le Regioni e l'unità nelle politiche pubbliche",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "33",
+      "confidence": 0.583074190217316,
+      "candidates": [
+        {
+          "id": "33",
+          "name": "Social Sciences",
+          "probability": 0.583074190217316
+        },
+        {
+          "id": "20",
+          "name": "Economics, Econometrics and Finance",
+          "probability": 0.08280361133362599
+        },
+        {
+          "id": "12",
+          "name": "Arts and Humanities",
+          "probability": 0.06983783579340867
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "33",
+      "true_any_topic": [
+        "20",
+        "33"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.2559406249783933
+    },
+    {
+      "work_id": "https://openalex.org/W1783185376",
+      "title": "Do we have the resources and right ecosystem to channel the Indian work force to accelerate research and innovation?",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "35",
+      "confidence": 0.3618399071397666,
+      "candidates": [
+        {
+          "id": "35",
+          "name": "Dentistry",
+          "probability": 0.3618399071397666
+        },
+        {
+          "id": "36",
+          "name": "Health Professions",
+          "probability": 0.17311621573610939
+        },
+        {
+          "id": "27",
+          "name": "Medicine",
+          "probability": 0.11268964000521604
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "20",
+      "true_any_topic": [
+        "14",
+        "20"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.2574240410176571
+    },
+    {
+      "work_id": "https://openalex.org/W1936938468",
+      "title": "통일에 대비한 한국의 통일비용 재원조달방안에 관한 논의",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "33",
+      "confidence": 0.39054938161985825,
+      "candidates": [
+        {
+          "id": "33",
+          "name": "Social Sciences",
+          "probability": 0.39054938161985825
+        },
+        {
+          "id": "20",
+          "name": "Economics, Econometrics and Finance",
+          "probability": 0.3628162926660776
+        },
+        {
+          "id": "14",
+          "name": "Business, Management and Accounting",
+          "probability": 0.06493736389588628
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "22",
+      "true_any_topic": [
+        "22",
+        "33"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": false,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.093070083996281
+    },
+    {
+      "work_id": "https://openalex.org/W1970007185",
+      "title": "Thoracic Epidural Steroid Injection for Rib Fracture Pain",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "27",
+      "confidence": 0.5884056993306366,
+      "candidates": [
+        {
+          "id": "27",
+          "name": "Medicine",
+          "probability": 0.5884056993306366
+        },
+        {
+          "id": "36",
+          "name": "Health Professions",
+          "probability": 0.2428010582427671
+        },
+        {
+          "id": "28",
+          "name": "Neuroscience",
+          "probability": 0.06626189918467841
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "27",
+      "true_any_topic": [
+        "27"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.0445217499800492
+    },
+    {
+      "work_id": "https://openalex.org/W1977509814",
+      "title": "The Liver as a Central Regulator of Hydrogen Sulfide",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "27",
+      "confidence": 0.33062475414384584,
+      "candidates": [
+        {
+          "id": "27",
+          "name": "Medicine",
+          "probability": 0.33062475414384584
+        },
+        {
+          "id": "13",
+          "name": "Biochemistry, Genetics and Molecular Biology",
+          "probability": 0.19309973672068803
+        },
+        {
+          "id": "30",
+          "name": "Pharmacology, Toxicology and Pharmaceutics",
+          "probability": 0.1403487429772785
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "13",
+      "true_any_topic": [
+        "13",
+        "27"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "field",
+      "option_count": 26,
+      "elapsed_seconds": 1.0412281669850927
+    },
+    {
+      "work_id": "https://openalex.org/W1021273750",
+      "title": "Pengaruh Komposisi Campuran Limbah Cair Industri Tapioka dan Air Terhadap Gas Bio yang Dihasilkan",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2311",
+      "confidence": 0.08205115222491242,
+      "candidates": [
+        {
+          "id": "2311",
+          "name": "Waste Management and Disposal",
+          "probability": 0.08205115222491242
+        },
+        {
+          "id": "2105",
+          "name": "Renewable Energy, Sustainability and the Environment",
+          "probability": 0.07472802110579888
+        },
+        {
+          "id": "2312",
+          "name": "Water Science and Technology",
+          "probability": 0.07120730877538668
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2312",
+      "true_any_topic": [
+        "1106",
+        "1111",
+        "2312"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.169715666997945
+    },
+    {
+      "work_id": "https://openalex.org/W104831435",
+      "title": "ANALISIS PENGGUNAAN GOGGLES DALAM PEKERJAANSHOTCRETE PADA TAMBANG BAWAH TANAH DOZ( DEEP ORE ZONE ) DI PT. FREEPORT INDONESIAPAPUA",
+      "type": "dissertation",
+      "status": "predicted",
+      "prediction": "2205",
+      "confidence": 0.0738190846493816,
+      "candidates": [
+        {
+          "id": "2205",
+          "name": "Civil and Structural Engineering",
+          "probability": 0.0738190846493816
+        },
+        {
+          "id": "2215",
+          "name": "Building and Construction",
+          "probability": 0.05953267856396652
+        },
+        {
+          "id": "3311",
+          "name": "Safety Research",
+          "probability": 0.03348730817785593
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3609",
+      "true_any_topic": [
+        "3609"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.044027958007064
+    },
+    {
+      "work_id": "https://openalex.org/W1521357402",
+      "title": "Famílies i cases senyorials de Castelló d'Empúries",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1202",
+      "confidence": 0.2601136651641662,
+      "candidates": [
+        {
+          "id": "1202",
+          "name": "History",
+          "probability": 0.2601136651641662
+        },
+        {
+          "id": "1204",
+          "name": "Archeology",
+          "probability": 0.04686549669745543
+        },
+        {
+          "id": "1200",
+          "name": "General Arts and Humanities",
+          "probability": 0.037268337556015364
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1202",
+      "true_any_topic": [
+        "1202",
+        "1204",
+        "1205"
+      ],
+      "correct_primary": true,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.94691516601597
+    },
+    {
+      "work_id": "https://openalex.org/W1532830450",
+      "title": "Mythes politiques et analyse de réseaux",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "3320",
+      "confidence": 0.15381376598392113,
+      "candidates": [
+        {
+          "id": "3320",
+          "name": "Political Science and International Relations",
+          "probability": 0.15381376598392113
+        },
+        {
+          "id": "3312",
+          "name": "Sociology and Political Science",
+          "probability": 0.14669682231528897
+        },
+        {
+          "id": "1202",
+          "name": "History",
+          "probability": 0.10644440458866262
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1207",
+      "true_any_topic": [
+        "1207",
+        "3316",
+        "3320"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.9459967079747
+    },
+    {
+      "work_id": "https://openalex.org/W1543671442",
+      "title": "Processing and Property Evaluation of Silver or Aluminum Matrix YBa2Cu3O6+x Superconducting Materials",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2500",
+      "confidence": 0.1609578827282332,
+      "candidates": [
+        {
+          "id": "2500",
+          "name": "General Materials Science",
+          "probability": 0.1609578827282332
+        },
+        {
+          "id": "3104",
+          "name": "Condensed Matter Physics",
+          "probability": 0.08853513470199527
+        },
+        {
+          "id": "2504",
+          "name": "Electronic, Optical and Magnetic Materials",
+          "probability": 0.07474694912008367
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2210",
+      "true_any_topic": [
+        "2210"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.209485499974107
+    },
+    {
+      "work_id": "https://openalex.org/W1583421561",
+      "title": "La herencia de caracteres adquiridos",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1311",
+      "confidence": 0.12639111970123262,
+      "candidates": [
+        {
+          "id": "1311",
+          "name": "Genetics",
+          "probability": 0.12639111970123262
+        },
+        {
+          "id": "2716",
+          "name": "Genetics",
+          "probability": 0.08824482001303904
+        },
+        {
+          "id": "1312",
+          "name": "Molecular Biology",
+          "probability": 0.03561135155933732
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1203",
+      "true_any_topic": [
+        "1203",
+        "1204"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.021001665998483
+    },
+    {
+      "work_id": "https://openalex.org/W1668347497",
+      "title": "New Approaches in Medical Image Analysis",
+      "type": "book",
+      "status": "predicted",
+      "prediction": "2741",
+      "confidence": 0.14901900260735257,
+      "candidates": [
+        {
+          "id": "2741",
+          "name": "Radiology, Nuclear Medicine and Imaging",
+          "probability": 0.14901900260735257
+        },
+        {
+          "id": "2204",
+          "name": "Biomedical Engineering",
+          "probability": 0.1106279302697799
+        },
+        {
+          "id": "1707",
+          "name": "Computer Vision and Pattern Recognition",
+          "probability": 0.09594948039361047
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1707",
+      "true_any_topic": [
+        "1707",
+        "2741",
+        "2808"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": true,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.965625290991738
+    },
+    {
+      "work_id": "https://openalex.org/W1726374298",
+      "title": "Le Regioni e l'unità nelle politiche pubbliche",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "3321",
+      "confidence": 0.12190674229391724,
+      "candidates": [
+        {
+          "id": "3321",
+          "name": "Public Administration",
+          "probability": 0.12190674229391724
+        },
+        {
+          "id": "3320",
+          "name": "Political Science and International Relations",
+          "probability": 0.08990254241374745
+        },
+        {
+          "id": "3312",
+          "name": "Sociology and Political Science",
+          "probability": 0.07177633782761593
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "3312",
+      "true_any_topic": [
+        "2002",
+        "3312"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": true,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.11422229098389
+    },
+    {
+      "work_id": "https://openalex.org/W1783185376",
+      "title": "Do we have the resources and right ecosystem to channel the Indian work force to accelerate research and innovation?",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "1405",
+      "confidence": 0.051810220318857986,
+      "candidates": [
+        {
+          "id": "1405",
+          "name": "Management of Technology and Innovation",
+          "probability": 0.051810220318857986
+        },
+        {
+          "id": "3500",
+          "name": "General Dentistry",
+          "probability": 0.03622113831615194
+        },
+        {
+          "id": "2922",
+          "name": "Research and Theory",
+          "probability": 0.028068952653622265
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2002",
+      "true_any_topic": [
+        "1403",
+        "2002"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.943810083001154
+    },
+    {
+      "work_id": "https://openalex.org/W1936938468",
+      "title": "통일에 대비한 한국의 통일비용 재원조달방안에 관한 논의",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2000",
+      "confidence": 0.08320156525765385,
+      "candidates": [
+        {
+          "id": "2000",
+          "name": "General Economics, Econometrics and Finance",
+          "probability": 0.08320156525765385
+        },
+        {
+          "id": "3320",
+          "name": "Political Science and International Relations",
+          "probability": 0.06167098537618284
+        },
+        {
+          "id": "3312",
+          "name": "Sociology and Political Science",
+          "probability": 0.04017412309736906
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2202",
+      "true_any_topic": [
+        "2202",
+        "3312",
+        "3313"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 9.083685916994
+    },
+    {
+      "work_id": "https://openalex.org/W1970007185",
+      "title": "Thoracic Epidural Steroid Injection for Rib Fracture Pain",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2703",
+      "confidence": 0.28536488916571084,
+      "candidates": [
+        {
+          "id": "2703",
+          "name": "Anesthesiology and Pain Medicine",
+          "probability": 0.28536488916571084
+        },
+        {
+          "id": "2740",
+          "name": "Pulmonary and Respiratory Medicine",
+          "probability": 0.043582654436654315
+        },
+        {
+          "id": "2307",
+          "name": "Health, Toxicology and Mutagenesis",
+          "probability": 0.027227462542976897
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "2746",
+      "true_any_topic": [
+        "2734",
+        "2746"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": false,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.95151949999854
+    },
+    {
+      "work_id": "https://openalex.org/W1977509814",
+      "title": "The Liver as a Central Regulator of Hydrogen Sulfide",
+      "type": "article",
+      "status": "predicted",
+      "prediction": "2721",
+      "confidence": 0.19391640400813281,
+      "candidates": [
+        {
+          "id": "2721",
+          "name": "Hepatology",
+          "probability": 0.19391640400813281
+        },
+        {
+          "id": "1314",
+          "name": "Physiology",
+          "probability": 0.07443579048361525
+        },
+        {
+          "id": "2737",
+          "name": "Physiology",
+          "probability": 0.035663272045316864
+        }
+      ],
+      "route": [],
+      "partition": "calibration",
+      "true_primary": "1303",
+      "true_any_topic": [
+        "1303",
+        "2721"
+      ],
+      "correct_primary": false,
+      "correct_any_topic": true,
+      "primary_in_top3_predictions": false,
+      "level": "subfield",
+      "option_count": 252,
+      "elapsed_seconds": 8.937773042009212
+    }
+  ],
+  "limitation": "Small exploratory probe; latency includes cache effects; no test labels used",
+  "output": {
+    "limit": 0,
+    "total_rows": 36,
+    "truncated": false
+  }
+}

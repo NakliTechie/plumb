@@ -1,0 +1,462 @@
+{
+  "samples": [
+    {
+      "topic_id": "T12157",
+      "source": "https://api.openalex.org/works?filter=primary_topic.id%3AT12157&select=id%2Ctitle%2Cprimary_topic%2Ccited_by_count&sort=cited_by_count%3Adesc&per-page=10",
+      "retrieved_at": "2026-09-22T15:26:27.239576+00:00",
+      "selection": "ten most cited works with this primary topic; not a random or representative sample",
+      "total_matching": 170355,
+      "works": [
+        {
+          "id": "https://openalex.org/W1579319646",
+          "title": "An Introduction to the Rock-Forming Minerals",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.70660001039505,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 6598
+        },
+        {
+          "id": "https://openalex.org/W2081673195",
+          "title": "Geochemistry of eocene calc-alkaline volcanic rocks from the Kastamonu area, Northern Turkey",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.9983000159263611,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 5865
+        },
+        {
+          "id": "https://openalex.org/W2059245554",
+          "title": "Distribution of the Elements in Some Major Units of the Earth's Crust",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.892799973487854,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 5628
+        },
+        {
+          "id": "https://openalex.org/W1971381271",
+          "title": "A graphic procedure in the geochemical interpretation of water‐analyses",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.9858999848365784,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 5621
+        },
+        {
+          "id": "https://openalex.org/W2913323966",
+          "title": "Deep learning and process understanding for data-driven Earth system science",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.9952999949455261,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 5594
+        },
+        {
+          "id": "https://openalex.org/W2105536892",
+          "title": "Introductory digital image processing: A remote sensing perspective",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.2775999903678894,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 5055
+        },
+        {
+          "id": "https://openalex.org/W2133042542",
+          "title": "In situ analysis of major and trace elements of anhydrous minerals by LA-ICP-MS without applying an internal standard",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.9955999851226807,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 4857
+        },
+        {
+          "id": "https://openalex.org/W2157895715",
+          "title": "Statistics and Data Analysis in Geology",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.8296999931335449,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 4770
+        },
+        {
+          "id": "https://openalex.org/W2798110564",
+          "title": "Statistics and Data Analysis in Geology.",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.8798999786376953,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 4592
+        },
+        {
+          "id": "https://openalex.org/W4234573133",
+          "title": "Treatise on geochemistry",
+          "primary_topic": {
+            "id": "https://openalex.org/T12157",
+            "display_name": "Geochemistry and Geologic Mapping",
+            "score": 0.6721000075340271,
+            "subfield": {
+              "id": "https://openalex.org/subfields/1702",
+              "display_name": "Artificial Intelligence"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/17",
+              "display_name": "Computer Science"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/3",
+              "display_name": "Physical Sciences"
+            }
+          },
+          "cited_by_count": 4575
+        }
+      ]
+    },
+    {
+      "topic_id": "T13442",
+      "source": "https://api.openalex.org/works?filter=primary_topic.id%3AT13442&select=id%2Ctitle%2Cprimary_topic%2Ccited_by_count&sort=cited_by_count%3Adesc&per-page=10",
+      "retrieved_at": "2026-09-22T15:26:27.731173+00:00",
+      "selection": "ten most cited works with this primary topic; not a random or representative sample",
+      "total_matching": 22925,
+      "works": [
+        {
+          "id": "https://openalex.org/W2916805370",
+          "title": "Climate: present, past and future",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.055799998342990875,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 1132
+        },
+        {
+          "id": "https://openalex.org/W2043450932",
+          "title": "Coal chemical industry and its sustainable development in China",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9987999796867371,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 340
+        },
+        {
+          "id": "https://openalex.org/W2388907336",
+          "title": "Lithospheric thinning and destruction of the North China Craton",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9987999796867371,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 325
+        },
+        {
+          "id": "https://openalex.org/W2378651796",
+          "title": "Discussions on the petrogenesis of granites",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9987999796867371,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 309
+        },
+        {
+          "id": "https://openalex.org/W3135803819",
+          "title": "Generation and Evolution of Basaltic Magmas：Some Basic Concepts and a New View onthe Origin of Mesozoic-Cenozoic Basaltic Volcanism in Eastern China",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9962000250816345,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 284
+        },
+        {
+          "id": "https://openalex.org/W2110118321",
+          "title": "The energy intensity of transition countries",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9846000075340271,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 258
+        },
+        {
+          "id": "https://openalex.org/W2364930341",
+          "title": "Metamorphic evolution of major tectonic units in the basement of the North China Craton: Key issues and discussion",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9970999956130981,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 248
+        },
+        {
+          "id": "https://openalex.org/W2079577298",
+          "title": "China's Embrace of Globalization",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9955999851226807,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 239
+        },
+        {
+          "id": "https://openalex.org/W2354325845",
+          "title": "RESPONSE OF VOLCANISM TO THE INDIA-ASIA COLLISION",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9979000091552734,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 238
+        },
+        {
+          "id": "https://openalex.org/W2366618785",
+          "title": "Granitoids and Crustal Growth in the East-Kunlun Orogenic Belt",
+          "primary_topic": {
+            "id": "https://openalex.org/T13442",
+            "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
+            "score": 0.9961000084877014,
+            "subfield": {
+              "id": "https://openalex.org/subfields/2002",
+              "display_name": "Economics and Econometrics"
+            },
+            "field": {
+              "id": "https://openalex.org/fields/20",
+              "display_name": "Economics, Econometrics and Finance"
+            },
+            "domain": {
+              "id": "https://openalex.org/domains/2",
+              "display_name": "Social Sciences"
+            }
+          },
+          "cited_by_count": 217
+        }
+      ]
+    }
+  ]
+}

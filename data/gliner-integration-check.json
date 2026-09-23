@@ -1,0 +1,62 @@
+{
+  "model": {
+    "backend": "gliner",
+    "model": "fastino/gliner2.5-multi-v1",
+    "revision": "a221b77a8baf4a613b8f8652661d41fa10a5641e",
+    "device": "mps",
+    "scoring": "exclusive-softmax-v1",
+    "runtime": {
+      "gliner2": "2.0.0",
+      "torch": "2.14.0",
+      "transformers": "4.57.6"
+    }
+  },
+  "synthetic_small_option_checks": [
+    {
+      "text": "The Higgs boson mass measured in proton collisions at the Large Hadron Collider.",
+      "expected": "1",
+      "actual": "1",
+      "probabilities": {
+        "1": 0.9999921201382151,
+        "2": 6.610290038564851e-07,
+        "3": 2.8651123693241567e-06,
+        "4": 4.353720411649173e-06
+      }
+    },
+    {
+      "text": "A randomized trial of beta blockers for patients with heart failure.",
+      "expected": "2",
+      "actual": "2",
+      "probabilities": {
+        "1": 7.486554477099287e-07,
+        "2": 0.9999973077730498,
+        "3": 9.076398330370973e-07,
+        "4": 1.0359316693496202e-06
+      }
+    },
+    {
+      "text": "Feudal institutions and royal succession in medieval France.",
+      "expected": "3",
+      "actual": "3",
+      "probabilities": {
+        "1": 4.819179938490209e-08,
+        "2": 7.590221603538071e-08,
+        "3": 0.9999998527660118,
+        "4": 2.3139972885429528e-08
+      }
+    }
+  ],
+  "full_width": {
+    "options": 252,
+    "encoded_tokens": 2105,
+    "input_text": "Title: A-16-43 テクスチャプロジェクション方式複合現実感ディスプレイにおける影付け表現\nSource: 電子情報通信学会総合大会講演論文集\nType: article\nKeywords: ",
+    "adapter_top_label": "1704: Computer Graphics and Computer-Aided Design",
+    "adapter_top_probability": 0.04371597448087598,
+    "native_output": {
+      "subject": {
+        "label": "1704: Computer Graphics and Computer-Aided Design",
+        "confidence": 0.04371597617864609
+      }
+    }
+  }
+}
